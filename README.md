@@ -83,9 +83,9 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 
 ## 🌐 Coding Profiles:
 <p align="center">
-<a href="https://leetcode.com/RevanthKumarJ/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
-<a href="https://auth.geeksforgeeks.org/user/jrevanth/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
-<!-- <a href="https://www.codechef.com/users/revanthkumarj1" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B05128.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/></a>
+<a href="https://leetcode.com/Yaddalapalli-Charan-Kumar-Naidu/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" height="30px"/></a>
+<a href="https://auth.geeksforgeeks.org/user/Yaddalapalli-Charan-Kumar-Naidu/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-%231DBF73.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="30px"/></a>
+<!-- <a href="https://www.codechef.com/users/Yaddalapalli-Charan-Kumar-Naidu1" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%23B05128.svg?&style=for-the-badge&logo=codechef&logoColor=white" height="30px"/></a>
 <a href="https://www.hackerrank.com/jrevanth101" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%231F8ACB.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" height="30px"/></a>
 </p> -->
 
