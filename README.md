@@ -94,5 +94,5 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 
 ## ❤️ Let's get connected:
 <p align="center">
-<a href="www.linkedin.com/in/charan-kumar-naidu-yaddalapalli" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+<a href="https://www.linkedin.com/in/charan-kumar-naidu-yaddalapalli/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
 </p>
