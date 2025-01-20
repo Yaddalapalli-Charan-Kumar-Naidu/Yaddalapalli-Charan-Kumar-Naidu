@@ -7,10 +7,10 @@
   <img src="./thoughtworks-gif_dribbble.gif" height="200px" alt="ThoughtWorks GIF" />
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=revanthkumarJ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+    <img src="https://komarev.com/ghpvc/?username=Yaddalapalli-Charan-Kumar-Naidu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
   </p>
   
-  <h2 align="center">Web Development ▸ App Development ◂ Creative Design</h2>
+  <h2 align="center">Web Development ▸ Software Development ◂ App Development</h2>
   
 </div>
 
@@ -29,7 +29,7 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 <h3 align="center">📊 My Stats</h3>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" />
+<!--     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" /> -->
 </p> 
 
 <hr>
@@ -42,6 +42,7 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+  <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 </p>
 
@@ -53,7 +54,8 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 ### Backend:
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" height="25px"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/>
+  <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+<!--   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25px"/> -->
 </p>
 
 ### Database:
@@ -64,9 +66,12 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 
 ### Others:
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25px"/>
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=for-the-badge&logo=postman&logoColor=white" height="25px"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25px"/>
+  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
 </p>
 
 ### IDEs:
