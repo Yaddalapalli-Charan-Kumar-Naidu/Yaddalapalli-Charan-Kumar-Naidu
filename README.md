@@ -31,8 +31,10 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&rank_icon=github&border=true&border_color=ffffff&title_color=00ACC1&amp&icon_color=00ACC1&amp&text_color=FFFFFF&amp&bg_color=001233&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 <!--     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" /> -->
 <!--   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&locale=en" alt="Yaddalapalli-Charan-Kumar-Naidu" /></div> -->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user="Yaddalapalli-Charan-Kumar-Naidu" alt="Yaddalapalli-Charan-Kumar-Naidu"/>
+<!--   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?username=Yaddalapalli-Charan-Kumar-Naidu" alt="Yaddalapalli-Charan-Kumar-Naidu"/> -->
+  <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&locale=en&layout=compact" alt="Yaddalapalli-Charan-Kumar-Naidu" />
+    </div>
 </p> 
 
 <hr>
