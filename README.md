@@ -32,9 +32,9 @@ Innovative Full Stack Developer passionate about crafting engaging Websites & Ap
 <!--     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&border=true&border_color=ffffff&text_color=FFFFFF&bg_color=001233&title_color=00ACC1&langs_count=15&layout=compact" /> -->
 <!--   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&locale=en" alt="Yaddalapalli-Charan-Kumar-Naidu" /></div> -->
 <!--   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?username=Yaddalapalli-Charan-Kumar-Naidu" alt="Yaddalapalli-Charan-Kumar-Naidu"/> -->
-  <div align="center">
+<!--   <div align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yaddalapalli-Charan-Kumar-Naidu&show_icons=true&locale=en&layout=compact" alt="Yaddalapalli-Charan-Kumar-Naidu" />
-    </div>
+    </div> -->
 </p> 
 
 <hr>
